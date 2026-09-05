@@ -1,0 +1,13 @@
+{
+  "name": "www.zero.university-source-code",
+  "version": "1.0.0",
+  "description": "Complete extracted source code for Zero — Learn. Build. Get Hired.",
+  "private": true,
+  "scripts": {
+    "serve": "npx serve .",
+    "start": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
